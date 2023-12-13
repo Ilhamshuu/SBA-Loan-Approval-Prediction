@@ -8,7 +8,7 @@ In this project, we aim to assess the risk associated with loans granted by the 
 
 ## Business Insight
 <p align="center">
-  <img src="https://github.com/Ilhamshuu/Loan-Risk-Assesment/assets/130891104/966d6537-ed69-42dc-8a6c-6836b273893e" alt="MIS Status">
+  <img src="https://github.com/Ilhamshuu/SBA-Loan-Approval-Prediction/assets/130891104/e87aaebf-69fb-4695-8b61-4840dc08e747" alt="MIS_Status">
 </p>
 
 - **Loan Repayment Rate**: The majority of companies are capable of fully repaying their loans, with only 32.3% unable to repay in full.
